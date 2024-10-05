@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.15.2",
+    "libraryName": "pnp-js-react-bump-1.20",
+    "libraryId": "d44afb21-6737-4b16-ba39-737dcae7785d",
+    "packageManager": "npm",
+    "solutionShortDescription": "spfx-pnp-js-example description",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
