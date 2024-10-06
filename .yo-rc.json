@@ -6,9 +6,11 @@
     "version": "1.20.0",
     "libraryName": "pnp-js-react-bump-1.20",
     "libraryId": "d44afb21-6737-4b16-ba39-737dcae7785d",
+    "nodeVersion": "20.16.0",
     "packageManager": "npm",
     "solutionShortDescription": "spfx-pnp-js-example description",
     "sdkVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
       "@microsoft/teams-js": "2.24.0"
     },
     "isDomainIsolated": false,
