@@ -10,7 +10,7 @@ import { getSP } from "../pnpjsConfig";
 import { SPFI, spfi } from "@pnp/sp";
 import { Logger, LogLevel } from "@pnp/logging";
 import { IItemUpdateResult } from "@pnp/sp/items";
-import { Label, PrimaryButton } from '@microsoft/office-ui-fabric-react-bundle';
+import { Label, PrimaryButton } from "@fluentui/react"
 
 export interface IAsyncAwaitPnPJsProps {
   description: string;
